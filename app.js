@@ -18,7 +18,7 @@ btn1.addEventListener("click", function () {
   if (tg.MainButton.isVisible) {
     tg.MainButton.hide();
   } else {
-    tg.MainButton.setText("Вы выбрали 'NEU X'");
+    tg.MainButton.setText("Оплатить 'NEU X'");
     item = "1";
     tg.MainButton.show();
   }
@@ -28,7 +28,7 @@ btn2.addEventListener("click", function () {
   if (tg.MainButton.isVisible) {
     tg.MainButton.hide();
   } else {
-    tg.MainButton.setText("Вы выбрали 'Lama 2'");
+    tg.MainButton.setText("Оплатить 'Lama 2'");
     item = "2";
     tg.MainButton.show();
   }
@@ -38,7 +38,7 @@ btn3.addEventListener("click", function () {
   if (tg.MainButton.isVisible) {
     tg.MainButton.hide();
   } else {
-    tg.MainButton.setText("Вы выбрали 'Light Pro'");
+    tg.MainButton.setText("Оплатить 'Light Pro'");
     item = "3";
     tg.MainButton.show();
   }
@@ -48,7 +48,7 @@ btn4.addEventListener("click", function () {
   if (tg.MainButton.isVisible) {
     tg.MainButton.hide();
   } else {
-    tg.MainButton.setText("Вы выбрали 'NEU Z'");
+    tg.MainButton.setText("Оплатить 'NEU Z'");
     item = "4";
     tg.MainButton.show();
   }
@@ -58,7 +58,7 @@ btn5.addEventListener("click", function () {
   if (tg.MainButton.isVisible) {
     tg.MainButton.hide();
   } else {
-    tg.MainButton.setText("Вы выбрали 'Edison");
+    tg.MainButton.setText("Оплатить 'Edison");
     item = "5";
     tg.MainButton.show();
   }
@@ -68,7 +68,7 @@ btn6.addEventListener("click", function () {
   if (tg.MainButton.isVisible) {
     tg.MainButton.hide();
   } else {
-    tg.MainButton.setText("Вы выбрали Tesla Model S");
+    tg.MainButton.setText("Оплатить Tesla Model S");
     item = "6";
     tg.MainButton.show();
   }
