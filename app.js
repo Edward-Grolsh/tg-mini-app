@@ -58,7 +58,7 @@ btn5.addEventListener("click", function () {
   if (tg.MainButton.isVisible) {
     tg.MainButton.hide();
   } else {
-    tg.MainButton.setText("Оплатить 'Edison");
+    tg.MainButton.setText("Оплатить 'Edison'");
     item = "5";
     tg.MainButton.show();
   }
@@ -68,7 +68,7 @@ btn6.addEventListener("click", function () {
   if (tg.MainButton.isVisible) {
     tg.MainButton.hide();
   } else {
-    tg.MainButton.setText("Оплатить Tesla Model S");
+    tg.MainButton.setText("Оплатить 'Tesla S'");
     item = "6";
     tg.MainButton.show();
   }
