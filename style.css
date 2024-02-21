@@ -4,6 +4,7 @@ body {
   font-size: 18px;
   color: var(--tg-theme-text-color);
   background: var(--tg-theme-bg-color);
+  font-family: Arial, sans-serif;
 }
 
 .container {
@@ -18,6 +19,10 @@ body {
 
 .img {
   width: 150px;
+  margin-bottom: 15px;
+}
+
+.imgName {
   margin-bottom: 15px;
 }
 
